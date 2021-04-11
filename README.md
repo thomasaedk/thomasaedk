@@ -18,7 +18,7 @@
       - [SFG Beer Works - Brewery Microservice](https://github.com/thomasaedk/mssc-brewery)
       - [SFG Beer Works - Brewery Client](https://github.com/thomasaedk/mssc-brewery-client)
       - [SFG JMS Examples](https://github.com/thomasaedk/sfg-jms)
-  - [Docker and Kubernetes: The Complete Guide] (https://relxlearning.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
+  - [Docker and Kubernetes: The Complete Guide](https://relxlearning.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
     - https://github.com/thomasaedk/multi-docker
     - https://github.com/thomasaedk/docker-react
   - [Complete React Developer](https://relxlearning.udemy.com/course/complete-react-developer-zero-to-mastery/)
