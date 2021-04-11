@@ -8,7 +8,7 @@
     - Lesson 4: Argon Assault
     - Lesson 5: [Realm Rush](https://github.com/thomasaedk/unity-realm-rush)
   - [Spring Boot Microservices with Spring Cloud Beginner to Guru](https://relxlearning.udemy.com/course/spring-boot-microservices-with-spring-cloud-beginner-to-guru/)
-    - Repos:
+    - Forked repos:
       - [MSSC Beer Inventory Service](https://github.com/thomasaedk/mssc-beer-inventory-service)
       - [MSSC Beer Order Service](https://github.com/thomasaedk/mssc-beer-order-service)
       - [MSSC Beer Service](https://github.com/thomasaedk/mssc-beer-service)
