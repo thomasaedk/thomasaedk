@@ -22,8 +22,8 @@
     - https://github.com/thomasaedk/multi-docker
     - https://github.com/thomasaedk/docker-react
   - [Complete React Developer](https://relxlearning.udemy.com/course/complete-react-developer-zero-to-mastery/)
-    - [Monsters Rolodex (mini project)](https://github.com/thomasaedk/udemy-react-monsters-rolodex)
-    - [CRWN Clothing (main project)](https://github.com/thomasaedk/crwn-clothing)
+    - [Monsters Rolodex - mini project](https://github.com/thomasaedk/udemy-react-monsters-rolodex)
+    - [CRWN Clothing - main project](https://github.com/thomasaedk/crwn-clothing) (private)
 - Misc
   - [Profile repo](https://github.com/thomasaedk/thomasaedk)
-  - [Intellij Idea settings](https://github.com/thomasaedk/intellij-idea-settings)
+  - [Intellij Idea settings](https://github.com/thomasaedk/intellij-idea-settings) (private)
