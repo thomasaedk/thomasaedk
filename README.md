@@ -4,9 +4,9 @@
 
 - Udemy courses:
   - [Complete C# Unity Game Developer 3D](https://relxlearning.udemy.com/course/unitycourse2/)
-    - Lesson 3: [Project Boost](https://github.com/thomasaedk/project-boost)
-    - Lesson 4: [Argon Assault](https://github.com/thomasaedk/argon-assault)
     - Lesson 5: [Realm Rush](https://github.com/thomasaedk/unity-realm-rush)
+    - Lesson 4: [Argon Assault](https://github.com/thomasaedk/argon-assault)
+    - Lesson 3: [Project Boost](https://github.com/thomasaedk/project-boost)
   - [Spring Boot Microservices with Spring Cloud Beginner to Guru](https://relxlearning.udemy.com/course/spring-boot-microservices-with-spring-cloud-beginner-to-guru/)
     - Forked repos:
       - [MSSC Beer Inventory Service](https://github.com/thomasaedk/mssc-beer-inventory-service)
