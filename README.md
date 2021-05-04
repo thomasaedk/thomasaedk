@@ -4,6 +4,7 @@
 
 - Udemy courses:
   - [Complete C# Unity Game Developer 3D](https://relxlearning.udemy.com/course/unitycourse2/)
+    - Lesson 6: [Zombie Runner](https://github.com/thomasaedk/unity-zombie-runner)
     - Lesson 5: [Realm Rush](https://github.com/thomasaedk/unity-realm-rush)
     - Lesson 4: [Argon Assault](https://github.com/thomasaedk/argon-assault)
     - Lesson 3: [Project Boost](https://github.com/thomasaedk/project-boost)
