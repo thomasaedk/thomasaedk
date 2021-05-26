@@ -3,7 +3,9 @@
 #### Repos:
 
 - Udemy courses:
-  - [Complete C# Unity Game Developer 3D](https://relxlearning.udemy.com/course/unitycourse2/)
+  - [RPG Core Combat Creator (intermediate)](https://relxlearning.udemy.com/course/unityrpg/)
+    - [RPG Game](https://github.com/thomasaedk/unity-rpg)
+  - [Complete C# Unity Game Developer 3D (beginner)](https://relxlearning.udemy.com/course/unitycourse2/)
     - Section 6: [Zombie Runner](https://github.com/thomasaedk/unity-zombie-runner)
     - Section 5: [Realm Rush](https://github.com/thomasaedk/unity-realm-rush)
     - Section 4: [Argon Assault](https://github.com/thomasaedk/argon-assault)
